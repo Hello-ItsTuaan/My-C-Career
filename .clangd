@@ -1,0 +1,18 @@
+# ───────────────────────────────────────────
+# | .clangd |
+# ───────────────────────────────────────────
+
+# ! IMPORTANT: ép clangd coi file như được biên dịch bằng g++ của MinGW
+# ? Why this exists: không có compile_commands.json thì clangd dùng lệnh "clang" mặc định,
+# ? nên --query-driver không bao giờ được kích hoạt
+# WARNING: đổi mingw64 thành ucrt64 nếu `where g++` báo ucrt64
+CompileFlags:
+  Compiler: C:/msys64/mingw64/bin/g++.exe
+  Add: [-std=c++17]
+
+# ? Why this exists: chỗ chỉnh chữ mờ (inlay hints) thật sự của clangd
+InlayHints:
+  Enabled: Yes
+  ParameterNames: Yes
+  DeducedTypes: Yes
+  Designators: Yes

@@ -1,0 +1,5 @@
+.idea/
+.vs/
+*.exe
+*.o
+__pycache__/
