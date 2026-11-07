@@ -1,1 +1,0 @@
-abs(3-columnsCount) + abs(3-rowsCount)

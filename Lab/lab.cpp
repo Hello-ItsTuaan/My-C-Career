@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 int main() {
   // freopen("MatrixCPP_INP.txt", "r", stdin);
   int rowsCount = 0, columnsCount = 0, currentRow = 0, currentColumns;
@@ -19,7 +20,7 @@ int main() {
         rowsCount++;
       } else {
         currentRow = (rowsCount + rows) / rows;
-        std::cout << "So 1 nam o hang(row) so: " << currentRow << "\n";
+        std::cout << "So 1 nam o hang(row) so " << currentRow << "\n";
       }
     }
   }
