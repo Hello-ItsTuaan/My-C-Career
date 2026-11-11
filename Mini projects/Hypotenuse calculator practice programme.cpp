@@ -1,5 +1,4 @@
-#include <iostream>
-#include <cmath>
+#include <bits/stdc++.h>
 
 int main() {
     double a;
@@ -25,3 +24,4 @@ int main() {
     std::cout << "Side C: " << c;
     return 0;
 }
+

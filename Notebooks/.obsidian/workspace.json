@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP - Con trỏ (Pointers).md",
+                "file": "CPP - Số ngẫu nhiên (rand & srand).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPP - Con trỏ (Pointers)"
+              "title": "CPP - Số ngẫu nhiên (rand & srand)"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "byCreatedTime",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -188,11 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "456a75f84424a5d8",
+  "active": "8b913e47d580ff42",
   "lastOpenFiles": [
+    "CPP - Con trỏ (Pointers).md",
     "CodeForces/CPP - Hoán vị nghịch đảo (Presents).md",
     "CPP - Tham số hằng (const parameter).md",
-    "CPP - Con trỏ (Pointers).md",
     "Index - BroCode Cpp.md",
     "Draft.md",
     "CPP - Truyền tham chiếu (Pass by Reference).md",
