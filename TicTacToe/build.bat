@@ -1,0 +1,1 @@
+g++ board.cpp input.cpp main.cpp -o tictactoe
