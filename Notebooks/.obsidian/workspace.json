@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP - Số ngẫu nhiên (rand & srand).md",
+                "file": "CPP - Đệ quy (Recursion).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPP - Số ngẫu nhiên (rand & srand)"
+              "title": "CPP - Đệ quy (Recursion)"
             }
           }
         ]
@@ -188,8 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b913e47d580ff42",
+  "active": "456a75f84424a5d8",
   "lastOpenFiles": [
+    "CPP - Bộ nhớ động (Dynamic Memory).md",
+    "CPP - Đệ quy (Recursion).md",
+    "CPP - Số ngẫu nhiên (rand & srand).md",
     "CPP - Con trỏ (Pointers).md",
     "CodeForces/CPP - Hoán vị nghịch đảo (Presents).md",
     "CPP - Tham số hằng (const parameter).md",
@@ -213,9 +216,6 @@
     "CPP - Hàm toán học (useful math related functions).md",
     "CPP - Câu Điều Kiện (if statement).md",
     "CPP - Câu lệnh Switch (Switch statement).md",
-    "CPP - Chuyển đổi kiểu (Type Conversion).md",
-    "CPP - Bí danh kiểu (typedef & using).md",
-    "CPP - Vòng lặp foreach (Range-based for).md",
     "Loops/Do while loops",
     "Loops",
     "Functions",
